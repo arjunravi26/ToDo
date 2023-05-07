@@ -2,11 +2,7 @@
   "name": "todo_app_1",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://github.com/arjunravi26/ToDo.git",
-=======
-   "homepage": "https://github.com/arjunravi26/ToDo.git",
->>>>>>> b71f7985ce926f03f1c525c09fb975678b1bff50
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
